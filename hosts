@@ -1,0 +1,3 @@
+[defaults]
+alma_8     ansible_host=93.125.23.232 ansible_ssh_port=23 ansible_named=Alma
+ubuntu_22  ansible_host=93.125.23.232 ansible_ssh_port=22 ansible_named=Ubuntu
